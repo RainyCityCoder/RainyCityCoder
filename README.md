@@ -4,7 +4,7 @@ I’m interested in programming (duh), SCUBA diving, hot chocolate, and other th
   
 Oh you thought I do Olympic diving? My bad. Platform diving athletes are incredible, but sadly I do not have the inner ear for it (mine dislikes spinning/flipping). I'd make a poor acrobat. Or Spiderman.
 
-I’m currently learning Python3, AWS, and going through the MIT CS50 curriculum. I'm also dabbling in MySQL. Next up in the SCUBA world is Rescue Diver.
+I’m currently learning Python3, and going through the MIT CS50 curriculum. I'm also dabbling in SQL. Next up in the SCUBA world is Rescue Diver.
 
 How to reach me ... [to be added]
 
