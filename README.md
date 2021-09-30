@@ -1,6 +1,10 @@
-Hi, I’m @RainyCityDiver, I'm interested in programming (duh), SCUBA diving, hot chocolate, and other things like science fiction (and fact!), music, and lately; Stoic philosophy. 
-  
-I’m currently learning Python 3, HTML, CSS, and Javascript. I've also dabbled in SQL. Next up in the SCUBA world is Rescue Diver.
+Hi, I’m @RainyCityCoder, a multi-talented human with a strong sense of curiosity. I love exercising it by SCUBA diving and learning new things.
+
+I’m transitioning from automotive into the tech sphere as a web developer. Building a web site that one can interact with and see in front of you is highly rewarding.
+
+I enjoy computer wrangling and problem solving; I've built my own PC, taken a CISCO class, and even worked in IT support in the past. Programming is a great fit! 
+
+Currently learning Python, HTML, CSS, and Javascript. I've also dabbled in SQL and Linux. 
 
 <!---
 RainyCityDiver/RainyCityDiver is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
