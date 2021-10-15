@@ -2,7 +2,7 @@ Hi, I’m @RainyCityCoder, a multi-talented human with a strong sense of curiosi
 
 I’m transitioning from automotive into the tech sphere as a web developer. Building a web site that one can interact with and see in front of you is highly rewarding.
 
-I enjoy computer wrangling and problem solving; I've built my own PC, taken a CISCO class, and even worked in IT support in the past. Programming is a great fit! 
+I enjoy computer wrangling and problem solving; I've built my own PC, learned CISCO, and even worked in IT support in the past. Programming is a great fit! 
 
 Currently learning Python, HTML, CSS, and Javascript. I've also dabbled in SQL and Linux. 
 
