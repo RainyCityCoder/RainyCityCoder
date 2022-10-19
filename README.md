@@ -1,4 +1,4 @@
-Hi, I’m RainyCityCoder, a multi-talented, naturally curious carbon-based humanoid. I’m transitioning from automotive into tech as a web developer.
+Hi, I’m RainyCityCoder, a multi-talented, naturally curious, carbon-based humanoid. I’m transitioning from automotive into tech as a web developer.
 
 I enjoy computer wrangling and problem solving; in the past I've built and fixed PCs, learned CISCO, and worked in IT support. Programming is a great fit!
 
