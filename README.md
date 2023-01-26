@@ -1,4 +1,4 @@
-Hi, I’m RainyCityCoder, a curious, carbon-based coder.
+Hi, I’m RainyCityCoder, a curious, carbon-based computer coder.
 
 I enjoy computer wrangling and problem solving; in the past I've built and fixed PCs, learned CISCO, and worked in IT support. Programming is a great fit!
 
