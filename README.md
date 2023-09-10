@@ -15,7 +15,7 @@ Ask me about my projects:
 
 - [Free Bike Finder](https://freebikefinder.vercel.app/) (MERN app)
 - My [Morse Code Translator](https://rainycitycoder.github.io/pyscript-MorseTranslator/) (PyScript experiment)
-- Containerizing [scientific software](https://github.com/MatsulabUW/cytosim)
+- Containerizing scientific software
 - ...and more!
 
 <p align="center"> 
