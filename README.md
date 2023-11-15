@@ -5,11 +5,11 @@ I enjoy ~~long walks on the beach~~ learning new things, problem solving, and bu
 
 <div align="center" ><a href="https://www.freeiconspng.com/img/19526" title="Laptop icon from freeiconspng.com"><img src="https://www.freeiconspng.com/uploads/laptop-icon-26.png" width="45" alt="Laptop Icon" /></a> </div>
 
-I got started with **Python 3** before web development caught my attention. I've since completed a **MERN stack** [bootcamp](https://www.pce.uw.edu/certificates/full-stack-development-with-javascript) (**MongoDB**, **Express**, **React**, & **Node.js**), which also taught **unit testing** (Jest & Jasmine) and **CI/CD** pipelines, and used a variety of hosting services like Heroku, Firebase, and Vercel.
+I got started with **Python** before web development caught my attention. I've since completed a **MERN stack** [bootcamp](https://www.pce.uw.edu/certificates/full-stack-development-with-javascript) (**MongoDB**, **Express**, **React**, & **Node.js**), which also taught **unit testing** (Jest & Jasmine) and **CI/CD** pipelines, and used a variety of hosting services like Heroku, Firebase, and Vercel.
 
-I've also dabbled in MySQL, PyScript, Docker, and Bash scripting. 
+I've also dabbled in Angular & TypeScript, MySQL, PyScript, Docker, and Bash scripting. 
 
-I'm currently learning **C** & **C++**, **Angular** & **TypeScript**, and am enjoying expanding my portfolio. 
+I'm currently learning **C** & **C++**, and am enjoying expanding my portfolio. 
 
 Ask me about my projects:
 
