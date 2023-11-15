@@ -1,7 +1,7 @@
 <h3 align="center">Hi, I'm RainyCityCoder</h1>
 <h5 align="center">JavaScript-oriented Web Developer</h3>
 
-I enjoy ~~long walks on the beach~~ problem solving and building things with code; especially web-based tools. 
+I enjoy ~~long walks on the beach~~ learning new things, problem solving, and building things with code. 
 
 <div align="center" ><a href="https://www.freeiconspng.com/img/19526" title="Laptop icon from freeiconspng.com"><img src="https://www.freeiconspng.com/uploads/laptop-icon-26.png" width="45" alt="Laptop Icon" /></a> </div>
 
