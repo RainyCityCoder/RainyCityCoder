@@ -9,7 +9,7 @@ I got started with **Python** before web development caught my attention. I've s
 
 I've also dabbled in Angular & TypeScript, MySQL, PyScript, Docker, and Bash scripting. 
 
-I'm currently learning **C** & **C++**, and am enjoying expanding my portfolio. 
+I'm currently learning **C** & **C++**, **Rust**, and am enjoying expanding my portfolio. 
 
 Ask me about my projects:
 
