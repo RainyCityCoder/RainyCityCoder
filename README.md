@@ -7,9 +7,7 @@ I enjoy ~~long walks on the beach~~ learning new things, problem solving, and bu
 
 I got started with **Python** before web development caught my attention. I've since completed a **MERN stack** [bootcamp](https://www.pce.uw.edu/certificates/full-stack-development-with-javascript) (**MongoDB**, **Express**, **React**, & **Node.js**), which also taught **unit testing** (Jest & Jasmine) and **CI/CD** pipelines, and used a variety of hosting services like Heroku, Firebase, and Vercel.
 
-I've also dabbled in Angular & TypeScript, MySQL, PyScript, Docker, and Bash scripting. 
-
-I'm currently learning **C** & **C++**, **Rust**, and am enjoying expanding my portfolio. 
+I've also dabbled in C++, Angular & TypeScript, MySQL, PyScript, Docker, and Bash scripting. 
 
 Ask me about my projects:
 
