@@ -11,8 +11,8 @@ I've also dabbled in React Native, C++, Angular & TypeScript, SQL databases, PyS
 
 Ask me about my projects:
 
-- [Free Bike Finder](https://freebikefinder.vercel.app/) (MERN app)
-- My [Morse Code Translator](https://rainycitycoder.github.io/pyscript-MorseTranslator/) (PyScript experiment)
+- [Free Bike Finder](https://freebikefinder.vercel.app/), a MERN app
+- My PyScript [Morse Code Translator](https://rainycitycoder.github.io/pyscript-MorseTranslator/) 
 - Dockerizing scientific software
 - ...and more!
 
